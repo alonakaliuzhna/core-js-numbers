@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolling-scopes-school/core-js-numbers.git"
+    "url": "git+https://github.com/alonakaliuzhna/core-js-numbers.git"
   },
   "author": "mikaleinik, valerydluski",
   "license": "MIT",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/core-js-numbers/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/core-js-numbers#readme"
+  "homepage": "https://github.com/alonakaliuzhna/core-js-numbers#readme"
 }
